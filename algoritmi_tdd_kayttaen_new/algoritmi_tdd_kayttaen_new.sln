@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "algoritmi_tdd_kayttaen_new", "algoritmi_tdd_kayttaen_new\algoritmi_tdd_kayttaen_new.csproj", "{4E379C3F-F5FC-4C81-8C31-641EAE6FB886}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Main", "Main", "{83D5501F-67DC-4377-ABAA-62742F6891E2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestProject1", "TestProject1\TestProject1.csproj", "{055BA787-00D9-42F0-9C01-240FB5F1E2D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4E379C3F-F5FC-4C81-8C31-641EAE6FB886}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4E379C3F-F5FC-4C81-8C31-641EAE6FB886}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4E379C3F-F5FC-4C81-8C31-641EAE6FB886}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4E379C3F-F5FC-4C81-8C31-641EAE6FB886}.Release|Any CPU.Build.0 = Release|Any CPU
+		{055BA787-00D9-42F0-9C01-240FB5F1E2D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{055BA787-00D9-42F0-9C01-240FB5F1E2D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{055BA787-00D9-42F0-9C01-240FB5F1E2D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{055BA787-00D9-42F0-9C01-240FB5F1E2D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{4E379C3F-F5FC-4C81-8C31-641EAE6FB886} = {83D5501F-67DC-4377-ABAA-62742F6891E2}
+		{055BA787-00D9-42F0-9C01-240FB5F1E2D4} = {83D5501F-67DC-4377-ABAA-62742F6891E2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {300C39A4-D008-4BF7-A97C-2DE261F1D0FE}
+	EndGlobalSection
+EndGlobal

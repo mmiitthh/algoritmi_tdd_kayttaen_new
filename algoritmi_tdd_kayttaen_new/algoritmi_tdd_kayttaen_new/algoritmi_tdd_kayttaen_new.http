@@ -1,0 +1,6 @@
+@algoritmi_tdd_kayttaen_new_HostAddress = http://localhost:5261
+
+GET {{algoritmi_tdd_kayttaen_new_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
